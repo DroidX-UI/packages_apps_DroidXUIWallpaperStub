@@ -15,6 +15,16 @@
     limitations under the License.
 -->
 <wallpapers>
+    
+    <category id="default" title="@string/category_default" featured="default_wallpaper">
+    
+    <static-wallpaper
+            id="default_wallpaper"
+            src="@drawable/default_wallpaper"
+            title="@string/wallpaper_default_wallpaper"
+            subtitle1="@string/author_jetbrains" />
+
+    </category>
 
 	<category id="droidx" title="@string/category_droidx" featured="droidx_g">
 

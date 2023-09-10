@@ -1,4 +1,14 @@
 {
+    "Default": {
+		"author": "Rhelvetican",
+		"featured": "default_wallpaper",
+		"wallpapers": {
+            "Default Wallpaper": {
+				"1": ""
+			}
+        }
+    },
+
 	"DroidX-UI": {
 		"author": "Rhelvetican",
 		"featured": "droidx_g",
