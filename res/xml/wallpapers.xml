@@ -16,6 +16,142 @@
 -->
 <wallpapers>
 
+	<category id="droidx" title="@string/category_droidx" featured="droidx_g">
+
+	<static-wallpaper
+            id="droidx_a"
+            src="@drawable/droidx_a"
+            title="@string/wallpaper_droidx_a"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="droidx_b"
+            src="@drawable/droidx_b"
+            title="@string/wallpaper_droidx_b"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="droidx_c"
+            src="@drawable/droidx_c"
+            title="@string/wallpaper_droidx_c"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="droidx_d"
+            src="@drawable/droidx_d"
+            title="@string/wallpaper_droidx_d"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="droidx_e"
+            src="@drawable/droidx_e"
+            title="@string/wallpaper_droidx_e"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="droidx_f"
+            src="@drawable/droidx_f"
+            title="@string/wallpaper_droidx_f"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="droidx_g"
+            src="@drawable/droidx_g"
+            title="@string/wallpaper_droidx_g"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="droidx_h"
+            src="@drawable/droidx_h"
+            title="@string/wallpaper_droidx_h"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_i"
+            src="@drawable/droidx_i"
+            title="@string/wallpaper_droidx_i"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_j"
+            src="@drawable/droidx_j"
+            title="@string/wallpaper_droidx_j"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_k"
+            src="@drawable/droidx_k"
+            title="@string/wallpaper_droidx_k"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_l"
+            src="@drawable/droidx_l"
+            title="@string/wallpaper_droidx_l"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_m"
+            src="@drawable/droidx_m"
+            title="@string/wallpaper_droidx_m"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_n"
+            src="@drawable/droidx_n"
+            title="@string/wallpaper_droidx_n"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_o"
+            src="@drawable/droidx_o"
+            title="@string/wallpaper_droidx_o"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_p"
+            src="@drawable/droidx_p"
+            title="@string/wallpaper_droidx_p"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_q"
+            src="@drawable/droidx_q"
+            title="@string/wallpaper_droidx_q"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_r"
+            src="@drawable/droidx_r"
+            title="@string/wallpaper_droidx_r"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_s"
+            src="@drawable/droidx_s"
+            title="@string/wallpaper_droidx_s"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_t"
+            src="@drawable/droidx_t"
+            title="@string/wallpaper_droidx_t"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_u"
+            src="@drawable/droidx_u"
+            title="@string/wallpaper_droidx_u"
+            subtitle1="@string/author_jetbrains" />
+
+    <static-wallpaper
+            id="droidx_v"
+            src="@drawable/droidx_v"
+            title="@string/wallpaper_droidx_v"
+            subtitle1="@string/author_jetbrains" />
+
+	</category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper

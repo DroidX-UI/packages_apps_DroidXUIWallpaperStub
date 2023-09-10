@@ -15,6 +15,30 @@
     limitations under the License.
 -->
 <resources>
+	<string name="category_droidx">DroidX-UI</string>
+    <string name="author_jetbrains">by Rhelvetican</string>
+    <string name="wallpaper_droidx_a">DroidX-UI Exclusive 1</string>
+    <string name="wallpaper_droidx_b">DroidX-UI Exclusive 2</string>
+    <string name="wallpaper_droidx_c">DroidX-UI Exclusive 3</string>
+    <string name="wallpaper_droidx_d">DroidX-UI Exclusive 4</string>
+    <string name="wallpaper_droidx_e">DroidX-UI Exclusive 5</string>
+    <string name="wallpaper_droidx_f">DroidX-UI Exclusive 6</string>
+    <string name="wallpaper_droidx_g">DroidX-UI Exclusive 7</string>
+    <string name="wallpaper_droidx_h">DroidX-UI Exclusive 8</string>
+    <string name="wallpaper_droidx_i">DroidX-UI Exclusive 9</string>
+    <string name="wallpaper_droidx_j">DroidX-UI Exclusive 10</string>
+    <string name="wallpaper_droidx_k">DroidX-UI Exclusive 11</string>
+    <string name="wallpaper_droidx_l">DroidX-UI Exclusive 12</string>
+    <string name="wallpaper_droidx_m">DroidX-UI Exclusive 13</string>
+    <string name="wallpaper_droidx_n">DroidX-UI Exclusive 14</string>
+    <string name="wallpaper_droidx_o">DroidX-UI Exclusive 15</string>
+    <string name="wallpaper_droidx_p">DroidX-UI Exclusive 16</string>
+    <string name="wallpaper_droidx_q">DroidX-UI Exclusive 17</string>
+    <string name="wallpaper_droidx_r">DroidX-UI Exclusive 18</string>
+    <string name="wallpaper_droidx_s">DroidX-UI Exclusive 19</string>
+    <string name="wallpaper_droidx_t">DroidX-UI Exclusive 20</string>
+    <string name="wallpaper_droidx_u">DroidX-UI Exclusive 21</string>
+    <string name="wallpaper_droidx_v">DroidX-UI Exclusive 22</string>
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>
