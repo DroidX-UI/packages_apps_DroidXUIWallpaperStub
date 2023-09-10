@@ -1,4 +1,17 @@
 {
+    "Default": {
+		"author": "WildWaze",
+		"featured": "default_wallpaper_a",
+		"wallpapers": {
+            "Default Wallpaper 1": {
+				"1": ""
+			},
+            "Default Wallpaper 2": {
+				"1": ""
+			}
+        }
+    },
+
 	"DroidX-UI": {
 		"author": "Rhelvetican",
 		"featured": "droidx_g",
