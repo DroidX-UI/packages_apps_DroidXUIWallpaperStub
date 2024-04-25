@@ -1,9 +1,18 @@
 {
     "Default": {
-		"author": "Rhelvetican",
+		"author": "WILDWAZE",
 		"featured": "default_wallpaper",
 		"wallpapers": {
             "Default Wallpaper": {
+				"1": ""
+			},
+            "Default Wallpaper_1": {
+				"1": ""
+			},
+            "Default Wallpaper_2": {
+				"1": ""
+			},
+            "Default Wallpaper_3": {
 				"1": ""
 			}
         }

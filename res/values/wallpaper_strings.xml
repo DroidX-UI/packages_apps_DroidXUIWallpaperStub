@@ -16,7 +16,11 @@
 -->
 <resources>
     <string name="category_default">Default Wallpaper</string>
+    <string name="author_waze">by WILDWAZE</string>
     <string name="wallpaper_default_wallpaper">Default Wallpaper</string>
+    <string name="wallpaper_default_wallpaper_1">Default Wallpaper</string>
+    <string name="wallpaper_default_wallpaper_2">Default Wallpaper</string>
+    <string name="wallpaper_default_wallpaper_3">Default Wallpaper</string>
     <string name="category_droidx">DroidX-UI</string>
     <string name="author_jetbrains">by Rhelvetican</string>
     <string name="wallpaper_droidx_a">DroidX-UI Exclusive 1</string>

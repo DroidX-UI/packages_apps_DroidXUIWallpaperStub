@@ -22,7 +22,25 @@
             id="default_wallpaper"
             src="@drawable/default_wallpaper"
             title="@string/wallpaper_default_wallpaper"
-            subtitle1="@string/author_jetbrains" />
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="default_wallpaper_1"
+            src="@drawable/default_wallpaper_1"
+            title="@string/wallpaper_default_wallpaper_1"
+            subtitle1="@string/author_waze" />
+    
+    <static-wallpaper
+            id="default_wallpaper_2"
+            src="@drawable/default_wallpaper_2"
+            title="@string/wallpaper_default_wallpaper_2"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="default_wallpaper_3"
+            src="@drawable/default_wallpaper_3"
+            title="@string/wallpaper_default_wallpaper_3"
+            subtitle1="@string/author_waze" />
 
     </category>
 
