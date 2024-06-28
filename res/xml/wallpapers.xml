@@ -42,6 +42,30 @@
             title="@string/wallpaper_default_wallpaper_3"
             subtitle1="@string/author_waze" />
 
+    <static-wallpaper
+            id="default_wallpaper_4"
+            src="@drawable/default_wallpaper_4"
+            title="@string/wallpaper_default_wallpaper_4"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="default_wallpaper_5"
+            src="@drawable/default_wallpaper_5"
+            title="@string/wallpaper_default_wallpaper_5"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="default_wallpaper_6"
+            src="@drawable/default_wallpaper_6"
+            title="@string/wallpaper_default_wallpaper_6"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="default_wallpaper_7"
+            src="@drawable/default_wallpaper_7"
+            title="@string/wallpaper_default_wallpaper_7"
+            subtitle1="@string/author_waze" />
+
     </category>
 
 	<category id="droidx" title="@string/category_droidx" featured="droidx_g">
@@ -179,6 +203,34 @@
             subtitle1="@string/author_jetbrains" />
 
 	</category>
+
+    <category id="floaters" title="@string/category_floaters" featured="floaters_a">
+
+	<static-wallpaper
+            id="floaters_a"
+            src="@drawable/space_floaters_a"
+            title="@string/space_floaters_a"
+            subtitle1="@string/author_waze" />
+
+	<static-wallpaper
+            id="floaters_b"
+            src="@drawable/space_floaters_b"
+            title="@string/space_floaters_b"
+            subtitle1="@string/author_waze" />
+
+	<static-wallpaper
+            id="floaters_c"
+            src="@drawable/space_floaters_c"
+            title="@string/space_floaters_c"
+            subtitle1="@string/author_waze" />
+
+	<static-wallpaper
+            id="floaters_d"
+            src="@drawable/space_floaters_d"
+            title="@string/space_floaters_d"
+            subtitle1="@string/author_waze" />
+
+    </category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 

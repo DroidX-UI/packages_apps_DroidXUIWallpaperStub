@@ -6,13 +6,25 @@
             "Default Wallpaper": {
 				"1": ""
 			},
-            "Default Wallpaper_1": {
+            "Default Wallpaper 1": {
 				"1": ""
 			},
-            "Default Wallpaper_2": {
+            "Default Wallpaper 2": {
 				"1": ""
 			},
-            "Default Wallpaper_3": {
+            "Default Wallpaper 3": {
+				"1": ""
+			},
+            "Default Wallpaper 4": {
+				"1": ""
+			},
+            "Default Wallpaper 5": {
+				"1": ""
+			},
+            "Default Wallpaper 6": {
+				"1": ""
+			},
+            "Default Wallpaper 7": {
 				"1": ""
 			}
         }
@@ -90,6 +102,25 @@
 			}
 		}
 	},
+
+    "Space Floaters": {
+		"author": "WILDWAZE",
+		"featured": "space_floaters_a",
+		"wallpapers": {
+            "Space Floaters 1": {
+				"1": ""
+			},
+            "Space Floaters 2": {
+				"1": ""
+			},
+            "Space Floaters 3": {
+				"1": ""
+			},
+            "Space Floaters 4": {
+				"1": ""
+			}
+        }
+    },
 
     "Space": {
         "author": "Infinitum",
