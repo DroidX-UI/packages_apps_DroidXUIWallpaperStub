@@ -24,48 +24,6 @@
             title="@string/wallpaper_default_wallpaper"
             subtitle1="@string/author_waze" />
 
-    <static-wallpaper
-            id="default_wallpaper_1"
-            src="@drawable/default_wallpaper_1"
-            title="@string/wallpaper_default_wallpaper_1"
-            subtitle1="@string/author_waze" />
-    
-    <static-wallpaper
-            id="default_wallpaper_2"
-            src="@drawable/default_wallpaper_2"
-            title="@string/wallpaper_default_wallpaper_2"
-            subtitle1="@string/author_waze" />
-
-    <static-wallpaper
-            id="default_wallpaper_3"
-            src="@drawable/default_wallpaper_3"
-            title="@string/wallpaper_default_wallpaper_3"
-            subtitle1="@string/author_waze" />
-
-    <static-wallpaper
-            id="default_wallpaper_4"
-            src="@drawable/default_wallpaper_4"
-            title="@string/wallpaper_default_wallpaper_4"
-            subtitle1="@string/author_waze" />
-
-    <static-wallpaper
-            id="default_wallpaper_5"
-            src="@drawable/default_wallpaper_5"
-            title="@string/wallpaper_default_wallpaper_5"
-            subtitle1="@string/author_waze" />
-
-    <static-wallpaper
-            id="default_wallpaper_6"
-            src="@drawable/default_wallpaper_6"
-            title="@string/wallpaper_default_wallpaper_6"
-            subtitle1="@string/author_waze" />
-
-    <static-wallpaper
-            id="default_wallpaper_7"
-            src="@drawable/default_wallpaper_7"
-            title="@string/wallpaper_default_wallpaper_7"
-            subtitle1="@string/author_waze" />
-
     </category>
 
 	<category id="droidx" title="@string/category_droidx" featured="droidx_g">
@@ -232,43 +190,79 @@
 
     </category>
 
-    <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
+    <category id="space" title="@string/category_dxui" featured="dxui_a">
 
-        <static-wallpaper
-            id="space_as_seen_from_mars_1"
-            src="@drawable/space_as_seen_from_mars_1"
-            title="@string/wallpaper_space_as_seen_from_mars_1"
-            subtitle1="@string/author_infinitum" />
+    <static-wallpaper
+            id="dxui_a"
+            src="@drawable/dxui_a"
+            title="@string/wallpaper_dxui_a"
+            subtitle1="@string/author_waze" />
 
-        <static-wallpaper
-            id="space_blue_giant_1"
-            src="@drawable/space_blue_giant_1"
-            title="@string/wallpaper_space_blue_giant_1"
-            subtitle1="@string/author_infinitum" />
+    <static-wallpaper
+            id="dxui_b"
+            src="@drawable/dxui_b"
+            title="@string/wallpaper_dxui_b"
+            subtitle1="@string/author_waze" />
 
-        <static-wallpaper
-            id="space_strange_solar_planets_1"
-            src="@drawable/space_strange_solar_planets_1"
-            title="@string/wallpaper_space_strange_solar_planets_1"
-            subtitle1="@string/author_infinitum" />
+    <static-wallpaper
+            id="dxui_c"
+            src="@drawable/dxui_c"
+            title="@string/wallpaper_dxui_c"
+            subtitle1="@string/author_waze" />
 
-        <static-wallpaper
-            id="space_strange_landscape_1"
-            src="@drawable/space_strange_landscape_1"
-            title="@string/wallpaper_space_strange_landscape_1"
-            subtitle1="@string/author_infinitum" />
+    <static-wallpaper
+            id="dxui_d"
+            src="@drawable/dxui_d"
+            title="@string/wallpaper_dxui_d"
+            subtitle1="@string/author_waze" />
 
-        <static-wallpaper
-            id="space_unknown_planet_1"
-            src="@drawable/space_unknown_planet_1"
-            title="@string/wallpaper_space_unknown_planet_1"
-            subtitle1="@string/author_infinitum" />
+    <static-wallpaper
+            id="dxui_e"
+            src="@drawable/dxui_e"
+            title="@string/wallpaper_dxui_e"
+            subtitle1="@string/author_waze" />
 
-        <static-wallpaper
-            id="space_warp_speed_1"
-            src="@drawable/space_warp_speed_1"
-            title="@string/wallpaper_space_warp_speed_1"
-            subtitle1="@string/author_infinitum" />
+    <static-wallpaper
+            id="dxui_f"
+            src="@drawable/dxui_f"
+            title="@string/wallpaper_dxui_f"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_g"
+            src="@drawable/dxui_g"
+            title="@string/wallpaper_dxui_g"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_h"
+            src="@drawable/dxui_h"
+            title="@string/wallpaper_dxui_h"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_i"
+            src="@drawable/dxui_i"
+            title="@string/wallpaper_dxui_i"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_j"
+            src="@drawable/dxui_j"
+            title="@string/wallpaper_dxui_j"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_k"
+            src="@drawable/dxui_k"
+            title="@string/wallpaper_dxui_k"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_l"
+            src="@drawable/dxui_l"
+            title="@string/wallpaper_dxui_l"
+            subtitle1="@string/author_waze" />
 
     </category>
 

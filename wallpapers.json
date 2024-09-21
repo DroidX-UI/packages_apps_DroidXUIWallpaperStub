@@ -5,27 +5,6 @@
 		"wallpapers": {
             "Default Wallpaper": {
 				"1": ""
-			},
-            "Default Wallpaper 1": {
-				"1": ""
-			},
-            "Default Wallpaper 2": {
-				"1": ""
-			},
-            "Default Wallpaper 3": {
-				"1": ""
-			},
-            "Default Wallpaper 4": {
-				"1": ""
-			},
-            "Default Wallpaper 5": {
-				"1": ""
-			},
-            "Default Wallpaper 6": {
-				"1": ""
-			},
-            "Default Wallpaper 7": {
-				"1": ""
 			}
         }
     },
@@ -123,25 +102,43 @@
     },
 
     "Space": {
-        "author": "Infinitum",
-        "featured": "space_strange_landscape_1",
+        "author": "WILDWAZE",
+        "featured": "dxui_a",
         "wallpapers": {
-            "As Seen From Mars": {
+            "DXUI v2 1": {
                 "1": ""
             },
-            "Blue Giant": {
+            "DXUI v2 2": {
                 "1": ""
             },
-            "Strange Solar Planets": {
+            "DXUI v2 3": {
                 "1": ""
             },
-            "Strange Landscape": {
+            "DXUI v2 4": {
                 "1": ""
             },
-            "Unknown Planet": {
+            "DXUI v2 5": {
                 "1": ""
             },
-            "Warp Speed": {
+            "DXUI v2 6": {
+                "1": ""
+            },
+            "DXUI v2 7": {
+                "1": ""
+            },
+            "DXUI v2 8": {
+                "1": ""
+            },
+            "DXUI v2 9": {
+                "1": ""
+            },
+            "DXUI v2 10": {
+                "1": ""
+            },
+            "DXUI v2 11": {
+                "1": ""
+            },
+            "DXUI v2 12": {
                 "1": ""
             }
         }
