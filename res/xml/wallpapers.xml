@@ -190,7 +190,7 @@
 
     </category>
 
-    <category id="space" title="@string/category_dxui" featured="dxui_a">
+    <category id="dxui2" title="@string/category_dxui" featured="dxui_a">
 
     <static-wallpaper
             id="dxui_a"
@@ -262,6 +262,28 @@
             id="dxui_l"
             src="@drawable/dxui_l"
             title="@string/wallpaper_dxui_l"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_m"
+            src="@drawable/dxui_m"
+            title="@string/wallpaper_dxui_m"
+            subtitle1="@string/author_waze" />
+
+    </category>
+
+    <category id="dxui3" title="@string/category_dxui3" featured="dxui_v3a">
+    
+    <static-wallpaper
+            id="dxui_v3a"
+            src="@drawable/dxui_v3a"
+            title="@string/wallpaper_dxui_v3a"
+            subtitle1="@string/author_waze" />
+
+    <static-wallpaper
+            id="dxui_v3b"
+            src="@drawable/dxui_v3b"
+            title="@string/wallpaper_dxui_v3b"
             subtitle1="@string/author_waze" />
 
     </category>

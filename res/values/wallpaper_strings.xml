@@ -60,6 +60,10 @@
     <string name="wallpaper_dxui_j">DXUI v2 10</string>
     <string name="wallpaper_dxui_k">DXUI v2 11</string>
     <string name="wallpaper_dxui_l">DXUI v2 12</string>
+    <string name="wallpaper_dxui_m">DXUI v2 13</string>
+    <string name="category_dxui3">DXUI v3</string>
+    <string name="wallpaper_dxui_v3a">DXUI v3 1</string>
+    <string name="wallpaper_dxui_v3b">DXUI v3 2</string>
     <string name="category_strange_dimension">Strange Dimension</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_strange_dimension_vortex_1">Vortex · Flat</string>

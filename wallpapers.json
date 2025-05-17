@@ -101,7 +101,7 @@
         }
     },
 
-    "Space": {
+    "dxui2": {
         "author": "WILDWAZE",
         "featured": "dxui_a",
         "wallpapers": {
@@ -143,6 +143,20 @@
             }
         }
     },
+
+    "dxui3": {
+        "author": "WILDWAZE",
+        "featured": "dxui_v3a",
+        "wallpapers": {
+            "DXUI v3 1": {
+                "1": ""
+            },
+            "DXUI v3 2": {
+                "1": ""
+            }
+        }
+    },
+
     "Strange Dimension": {
         "author": "Infinitum",
         "featured": "strange_dimension_strange_ocean_1",
